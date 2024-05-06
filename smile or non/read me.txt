@@ -1,0 +1,12 @@
+1. Download the dataset via a data link.
+
+2. Open the project on Google Collaborate and create a new folder called data. Initialize three folders in the data folder: one for the smiling images, one for nonsmiles, and another for the testing data.
+
+3. Upload all images in their place.
+
+4. Change the image variable according to your test image.
+
+5. You're good to go.
+
+direct project link: https://colab.research.google.com/drive/1rvNQIVxJrYNg38-Zu9htjRgVXP2EH1oS#scrollTo=r0N__IpGt5_s
+data link: https://www.kaggle.com/datasets/chazzer/smiling-or-not-face-data
